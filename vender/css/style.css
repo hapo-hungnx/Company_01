@@ -1,0 +1,21 @@
+* {margin: 0;padding: 0;}
+
+/* Top content stylesheet */
+.top-header {
+  height: 2rem;
+  background-color: black;
+}
+
+.top-header-content-item a {
+  font-family: 'Playfair Display', serif;
+  font-size: 0.75rem;
+  text-decoration: none;
+}
+
+.font-playfair {
+  font-family: 'Playfair Display', serif;
+}
+
+.font-montserrat {
+  font-family: 'Montserrat', serif;
+}
